@@ -22,6 +22,13 @@ hoteis = [
         'estrelas': 3.8,
         'diaria': 250.60,
         'cidade': 'Rio Grande do Sul'
+    },
+    {
+        'hotel_id': 'Delta',
+        'nome': 'Delta Hotel',
+        'estrelas': 3.8,
+        'diaria': 250.60,
+        'cidade': 'Rio Grande do Sul'
     }
 ]
 
